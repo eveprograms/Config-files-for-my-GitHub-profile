@@ -2,11 +2,12 @@
 ## About
 https://github.com/eveprograms
 * I’m @evepanzarino. I go to Full Sail University in Web Development.
+* I have various interests in art, technology, writing, and philosophy.
+* 
 
 # Dev Blog
 * * *
 ## Programming: Socials:
-
 * Github: https://github.com/eveprograms
 - Instagram: https://instagram.com/eveprograms
 - Youtube: https://youtube.com/@eveprograms
@@ -22,7 +23,7 @@ https://github.com/eveprograms
 - Twitch: https://twitch.tv/evepanzarino
 
 ## Philosophy Socials:
-+ Thoughtful Writing
+* Thoughtful Writing
 - Instagram: https://instagram.com/evephilosophy
 - Youtube: https://youtube.com/@evephilosophy
 - Bluesky: https://bsky.app/profile/evephilosophy.bsky.social
