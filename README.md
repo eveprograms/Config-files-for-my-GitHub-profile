@@ -1,3 +1,3 @@
 # Config-files-for-my-GitHub-profile
-##about
+## about
 https://github.com/eveprograms
