@@ -3,7 +3,6 @@
 https://github.com/eveprograms
 * I’m @evepanzarino. I go to Full Sail University in Web Development.
 * I have various interests in art, technology, writing, and philosophy.
-* 
 
 # Dev Blog
 * * *
