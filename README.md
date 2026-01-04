@@ -1,7 +1,7 @@
 # Config-files-for-my-GitHub-profile
 ## About
 * https://github.com/eveprograms
-** I’m @evepanzarino. I go to Full Sail University in Web Development.
+* * I’m @evepanzarino. I go to Full Sail University in Web Development.
 
 # Dev Blog
 * * *
